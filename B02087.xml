@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The King's Majesties letter to his Parliament, met at Edinburgh, 28 of July, 1670. With his Grace the Lord Commissioners speech to the said Parliament.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02087</idno>
+            <idno type="STC">Wing C3106A</idno>
+            <idno type="STC">ESTC R173771</idno>
+            <idno type="EEBO-CITATION">52211749</idno>
+            <idno type="OCLC">ocm 52211749</idno>
+            <idno type="VID">175565</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02087)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175565)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2740:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The King's Majesties letter to his Parliament, met at Edinburgh, 28 of July, 1670. With his Grace the Lord Commissioners speech to the said Parliament.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>[2], 8 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler, Printer to the King's most excelletn Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter from Charles II dated: The seventh day of July, one thousand six hundred and seventy.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conventicle act, --  1670.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  History --  1660-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:175565:1" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:175565:2"/>
+            <pb facs="tcp:175565:3"/>
+            <pb facs="tcp:175565:4"/>
+            <pb facs="tcp:175565:4"/>
+            <p>THE KING'S MAJESTIES LETTER TO HIS PARLIAMENT, Met at <hi>Edinburgh,</hi> 28. of <hi>July,</hi> 1670.</p>
+            <p>With the LORD COMMISSIONER'S SPEECH TO THE PARLIAMENT.</p>
+            <figure>
+               <head>C R</head>
+               <q>DIEV ET MON DROIT</q>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>EDINBURGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the King's moſt Excellent MAJESTY, 1670.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:175565:5"/>
+            <pb n="3" facs="tcp:175565:5"/>
+            <head>THE KINGS MAJESTIES LETTER TO HIS PARLIAMENT, Met at <hi>Edinburgh,</hi> 28. of <hi>July,</hi> 1670.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+               <lb/>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He manifold experience We have of your Loyalty and dutiful Af<g ref="char:EOLhyphen"/>fection to Our Perſon and Ser<g ref="char:EOLhyphen"/>vice, eſpecially in your late Seſ<g ref="char:EOLhyphen"/>ſion, invites Vs on all occaſions to ſignifie to you, how ſenſible We are thereof. It is Our con<g ref="char:EOLhyphen"/>ſtant ſtudy to do it by Acts of Our Royal Care of the Concerns of that Our ancient Kingdom, the Peace and Wellfare whereof, are very dear to Vs. At preſent, We know not how to expreſs doth better, then by acquainting you with the dear confidence We have, of the conſtant conti<g ref="char:EOLhyphen"/>nuance of your ready concurrence in every thing We do deſign for the Publick Good, whereof you gave Vs, in your laſt Letter of the twenty third of <hi>December,</hi> renewed aſſurances. In purſuance therefore, of the Propoſal We made to you at your firſt meeting, of a nearer conjunction of theſe
+<pb n="4" facs="tcp:175565:6"/>firſt meeting, of a nearer conjunction of theſe Our two Kingdoms of <hi>Scotland</hi> and <hi>England,</hi> by as ſtrict an Vnion as poſsible can be attained, We have commanded Our Commiſsioner to minde you of effectuating all thoſe particulars you ſo readily offered, in order to a Treaty for accom<g ref="char:EOLhyphen"/>pliſhing the deſired Vnion, wherein We and Our Houſes of Parliament here, not only have freely concurred, but have done every thing elſe that is thereto requiſite, in behalf of this Our Kingdom of <hi>England.</hi> It remains therefore, that you per<g ref="char:EOLhyphen"/>form, as they have, what is further to be done by you; And you may be confident, nothing will be wanting on Our part, that by Gods bleſsing may render the Treaty effectual. You will find Our Commiſsioner, to whom you ſhall give entire truſt, ſufficiently inſtructed by Vs in all other matters, that either We could think on, or you can deſire, for maintaining the ſettled Go<g ref="char:EOLhyphen"/>vernment of Church and State in its luſtre and ſecurity, by making ſuch Laws as may be found yet further neceſſary for the preſervation of Peace and Vnion in that Our Kingdom. For effec<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t<g ref="char:EOLhyphen"/>ing whereof, We know your Zeal to Our Ser<g ref="char:EOLhyphen"/>vice will lead you to do all that is requiſite on your part, as Our Affection to you and all Our good Subjects there, carries Vs to intend nothing with greater fervour, then what We judge con<g ref="char:EOLhyphen"/>ducible to your common wellfare, wherein We ac<g ref="char:EOLhyphen"/>count Our own inſeparably concerned. And ſo We bid you heartily farewell.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehall,</hi> 
+                  <date>the ſeventh day of <hi>July,</hi> one thouſand ſix hundred and ſeventy, and of Our Reign the twenty two year.</date>
+               </dateline>
+               <signed>C. R.</signed>
+            </closer>
+         </div>
+         <div type="speech">
+            <pb n="5" facs="tcp:175565:6"/>
+            <head>HIS MAJESTIES COMMISSIONER'S SPEECH TO THE PARLIAMENT, Met at <hi>Edinburgh,</hi> 28. of <hi>July,</hi> 1670.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Is <hi>Majeſty</hi> hath been graciouſly pleaſed, by His Letter which you have now heard, ſo fully to renew the ex<g ref="char:EOLhyphen"/>preſſions of His conſtant and conti<g ref="char:EOLhyphen"/>nued care of this His ancient King<g ref="char:EOLhyphen"/>dom, His confidence of this Parlia<g ref="char:EOLhyphen"/>ment, and His ſenſe of the Zeal to His Service, which you manifeſted in your laſt Seſſion, that there is little left for me to ſay at this time. I need not repeat the aſſurances of His <hi>Majeſties</hi> conſtant and unalterable Zeal, for maintaining and defending the ture Re<g ref="char:EOLhyphen"/>formed Proteſtant Religion in this His Kingdom; And that with no leſs Zeal and Conſtancy, He will maintain the ancient Government by Archbiſhops and Biſhops, now happily re<g ref="char:EOLhyphen"/>ſtored and eſtabliſhed here: For, in all the exerciſes of His Royal Authority, He doth daily give full and undenyable Teſtimonies thereof.</p>
+            <p>
+               <pb n="6" facs="tcp:175565:7"/>
+At the opening of the firſt Seſſion of this Parliament, I told you in His <hi>Majeſties</hi> Name, that He would not endure thoſe numerous and unlawful Conventicles that tend to Sedi<g ref="char:EOLhyphen"/>tion and Schiſm, which had been too frequent in ſome Shires of this Kingdom; and the King did then require you, and all in Authority under Him, vigorouſly to ſuppreſs ſuch Meet<g ref="char:EOLhyphen"/>ings, and to bring the moſt Guilty to condign puniſhment. In proſecution of which, the Lords of the Privy Council have done their duty carefully, though not with that ſucceſs which they deſired: For, His <hi>Majeſty</hi> hath been informed, that this Summer divers ſeditious and numerous Conventicles have been kept, even in the open fields, which look liker endeavours to rendezvous for Rebellion, then any pretence of Religious Worſhip, and that in high contempt of His <hi>Majeſties</hi> Au<g ref="char:EOLhyphen"/>thority, and of this Parliament, which they well knew was ſo ſoon to aſſemble. Yea, ſuch hath been the inſolent barba<g ref="char:EOLhyphen"/>rity of that incorrigible ſort of Non-conformiſts, that in ſome places, the Houſes of Orthodox and Peaceable Miniſters have been rob'd, their Perſons and Families wounded, and they threatned to be murdered, if they ſtay at their Churches.</p>
+            <p>Therefore, His <hi>Majeſty</hi> doth moſt ſeriouſly recommend it to your ſpecial care, by good Laws and vigorous proſecution of them, to curb, puniſh and prevent thoſe ſeditious Con<g ref="char:EOLhyphen"/>venticles; to cure the with-drawing of Proteſtants from their Paroch-churches and the Ordinances there, which is the occa<g ref="char:EOLhyphen"/>ſion of thoſe Conventicles, and cannot be pretended for Con<g ref="char:EOLhyphen"/>ſcience, but muſt be eſteemed only out of deſign to perpetuate Faction and Schiſm (ſeing the form of Worſhip here is the ſame which hath been ſince the Reformation) As alſo, to puniſh examplarly thoſe barbarous Roberies and Aſſaſſinates, committed againſt honeſt and peaceable Miniſters; and ge<g ref="char:EOLhyphen"/>nerally, to provide what you ſhall think neceſſary for con<g ref="char:EOLhyphen"/>tinuing the Peace of the Kingdom. The work will be eaſie, and I doubt not your care in it. The Kingdom generally is Loyal, Peaceable and Dutiful; it is but a ſmall part of it which is tainted with ſuch Principles and Practices; and I am fully inſtructed to give the Kings Royal Aſſent to theſe, or any other good Laws you ſhall think neceſſary in this Seſſion.</p>
+            <p>But, your firſt work is, to perfect what remains to be done toward the Treaty of the Union. The King did ſeriouſly recommend it to you at your firſt meeting, and you did dutifully declare your hearty concurrence; and in order there<g ref="char:EOLhyphen"/>to, your willingneſs that Commiſſioners be appointed for this Kingdom, to Treat with ſuch as ſhould be imployed for the Kingdom of <hi>England,</hi> upon the Grounds and Conditions of
+<pb n="7" facs="tcp:175565:7"/>the Union, reſerving alwayes to the Parliament, the allow<g ref="char:EOLhyphen"/>ing and diſ-allowing the ſame, as they ſhall judge fit. You did alſo freely and heartily offer to His <hi>Majeſty,</hi> the nomi<g ref="char:EOLhyphen"/>nation of the perſons to Treat for this Kingdom, with the appointing the Number, <hi>Quorum,</hi> Time and Place of their meeting: Since that time, the two Houſes of Parliament in <hi>England</hi> have as heartily concurred, and as freely left the Perſons, <hi>Quorum,</hi> Time and Place to His <hi>Majeſty;</hi> And farther, His <hi>Majeſty,</hi> by and with their advice and conſent, hath paſt an Act of Parliament, Authorizing the Commiſ<g ref="char:EOLhyphen"/>ſioners for the Realm of <hi>England</hi> to Treat. The Act it ſelf is in print: moſt of you, I think, have ſeen it; and I am confident, you will chearfully paſs ſuch another Act, which ſhall be prepared at the Articles againſt your next meeting: And I aſſure my ſelf, His <hi>Majeſty</hi> will, out of His Fatherly care of both His Kingdoms, name ſuch Per<g ref="char:EOLhyphen"/>ſons as ſhall be fit for going about ſo good a Work.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175565:8"/>
+            <pb facs="tcp:175565:8"/>
+            <pb facs="tcp:175565:9"/>
+            <pb facs="tcp:175565:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
